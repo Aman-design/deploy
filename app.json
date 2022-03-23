@@ -14,7 +14,7 @@
       "url": "https://github.com/knadh/listmonk-heroku"
     }
   ],
-  "addons": ["heroku-postgresql:hobby-basic"],
+  "addons": ["heroku-postgresql"],
 
   "env": {
     "ROOT_URL": {
